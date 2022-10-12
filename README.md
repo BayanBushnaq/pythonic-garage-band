@@ -34,7 +34,7 @@ i.e.
 - Any tests of note?
 ### No thing yet
 - Describe any tests that you did not complete, skipped, etc
-### All ests are completed perfectly.
+### All tests are completed perfectly.
 
 ### pull request :
 [My pull Request](https://github.com/BayanBushnaq/pythonic-garage-band/pull/1/)
